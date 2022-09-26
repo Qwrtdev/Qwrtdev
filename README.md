@@ -5,7 +5,7 @@
 -  Beginner Coder
  👀 I’m interested in Coding and Video Games
 
-- 🌱 I’m currently learning javascript 
+- 🌱 I’m currently learning javascript, HTML and CSS
 
 - 💞️ I’m looking to collaborate on a small project
 
